@@ -14,3 +14,6 @@ const TEST_IMAGES = [
 ];
 
 export default TEST_IMAGES
+
+// export {TEST_IMAGES, TEST_IMAGES[0] AS testImage1}
+// just export the whole thing, preferable, less fuss

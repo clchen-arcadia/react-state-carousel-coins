@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Test the individual card component Matches the snapshot 1`] = `
+exports[`Test the individual card component matches the snapshot 1`] = `
 <div>
   <div
     class="Card"

@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Tests the Carousel component Matches snapshot 1`] = `
+exports[`Tests the Carousel component matches snapshot 1`] = `
 <div>
   <div
     class="Carousel"
@@ -11,9 +11,6 @@ exports[`Tests the Carousel component Matches snapshot 1`] = `
     <div
       class="Carousel-main"
     >
-      <i
-        class="bi bi-arrow-left-circle"
-      />
       <div
         class="Card"
       >

@@ -12,7 +12,7 @@ const testCard1 = {
 }
 
 describe("Test the individual card component", function () {
-    it("Successfully renders the component", function () {
+    it("successfully renders the component without crashing", function () {
         render(<Card
             caption={testCard1.caption}
             src={testCard1.src}
@@ -21,7 +21,7 @@ describe("Test the individual card component", function () {
         />);
     });
 
-    it("Matches the snapshot", function () {
+    it("matches the snapshot", function () {
         const { container } =
             render(<Card
                 caption={testCard1.caption}
